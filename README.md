@@ -31,16 +31,15 @@
         <h3 style="font-size:2.5vw;">Making comparisons in tags<1</h3>
         <article>
           <p>Here are the hyperlinks to the mandatory Experiment Pages: </p>
-          <li style="font-size:1vw;" type="A">
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
-            <li> Meta Data Example: <a href="" target="_blank">Click Here<a/>
+          <ol style="font-size:1vw;" type="A">
+            <li style="font-size:2vw;"> Meta Data Example: <a href="" target="_blank">Click Here</a>
+            <li style="font-size:3vw;"> Footer blockquote Example: <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1.25vw;"> Tamplate Examplar  <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1vw;"> Headings and Paragraph Tags <a href="" target="_blank">Click Here</a>
+            <li > Subscripts and Superscript Tags <a href="" target="_blank">Click Here</a>
+            <li > Image Lesson <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1vw;"> Laying out Divs (Using HTML BoilerPalte) <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1vw;"> What this index page might look like with Flexbox <a href="" target="_blank">Click Here</a>
           </ol>
           <ul style="font-size:1vw;" style="list-style-type:square;">
             <li> Unorganized List
