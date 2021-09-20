@@ -1,4 +1,3 @@
-# New-repository
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -28,21 +27,28 @@
 
     <div>
       <section>
-        <h3 style="font-size:2.5vw;">Making comparisons in tags<1</h3>
+        <h3 style="font-size:2.5vw;">Making Comparisons of Tags</h3>
         <article>
           <p>Here are the hyperlinks to the mandatory Experiment Pages: </p>
           <ol style="font-size:1vw;" type="A">
             <li style="font-size:2vw;"> Meta Data Example: <a href="" target="_blank">Click Here</a>
-            <li style="font-size:3vw;"> Footer blockquote Example: <a href="" target="_blank">Click Here</a>
-            <li style="font-size:1.25vw;"> Tamplate Examplar  <a href="" target="_blank">Click Here</a>
-            <li style="font-size:1vw;"> Headings and Paragraph Tags <a href="" target="_blank">Click Here</a>
-            <li > Subscripts and Superscript Tags <a href="" target="_blank">Click Here</a>
+            <li style="font-size:3vw;"> Footer Blockquote Example: <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1.25vw;"> Template Exemplar: <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1vw;"> Headings adn Paragraph Tags: <a href="" target="_blank">Click Here</a>
+            <li > Subscript and Superscript Tags <a href="" target="_blank">Click Here</a>
             <li > Image Lesson <a href="" target="_blank">Click Here</a>
-            <li style="font-size:1vw;"> Laying out Divs (Using HTML BoilerPalte) <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1vw;"> Laying out DIVs (Using HTML BoilerPalte) <a href="" target="_blank">Click Here</a>
             <li style="font-size:1vw;"> What this index page might look like with Flexbox <a href="" target="_blank">Click Here</a>
           </ol>
-          <ul style="font-size:1vw;" style="list-style-type:square;">
-            <li> Unorganized List
+          <p style="font-size:1vw;">Additional information pages</p>
+          <ul style="font-size:2.5vw;" style="list-style-type:square;">
+            <li style="font-size:2vw;"> Lists: unordered and ordered information, <a href="" target="_blank">Click Here</a>
+            <li style="font-size:1vw;"> Example #1, <a href="" target="_blank">Click Here</a>
+            <li style="font-size:2vw;"> Example #2, <a href="" target="_blank">Click Here</a>
+            <li > Hyperlinks and Images Example, <a href="" target="_blank">Click Here</a>
+            <li style="font-size:2vw;"> Iamges: and advanced lesson on mapping, <a href="" target="_blank">Click Here</a>
+            <li >  <a href="" target="_blank">Click Here</a>
+            <li style="font-size:3vw;">  <a href="" target="_blank">Click Here</a>
           </ul>
         </article>
       </section>
