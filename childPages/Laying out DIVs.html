@@ -46,11 +46,11 @@
       <p>
         <strong>
           <a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">
-            Mitch Kapor
+            Odeh Farhaoud
           </a>
         </strong>
       </p>
-    <p>&copy Mark Mercer, powered by MercersKitchen in GitHub</p>
+    <p>&copy Odeh Farhaoud, powered by MercersKitchen in GitHub</p>
   </footer>
 
 </html>
