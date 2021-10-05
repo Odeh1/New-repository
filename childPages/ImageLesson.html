@@ -11,6 +11,12 @@
 
     <style> div {border: thin dotted red;} </style>
 
+    <style>
+    body {
+      background-color: coral;
+    }
+    </style>
+
   </head>
 
   <body>
