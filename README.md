@@ -67,7 +67,7 @@
           </a>
         </strong>
       </p>
-    <p>&copy Odeh Farhaoud, powered by MercersKitchen in GitHub</p>
+    <p>&copy Odeh Farhaoud, powered by Odeh Farhaoud in GitHub</p>
   </footer>
 
 </html>
